@@ -8,8 +8,8 @@ const services = [
   {
     icon: ShoppingCart,
     title: 'E-commerce Solutions',
-    description: 'Comprehensive online store development with secure payment integration, inventory management, and seamless customer experiences.',
-    features: ['Payment Gateway Integration', 'Inventory Management', 'Mobile-First Design', 'Analytics & Reporting']
+    description: 'Comprehensive online store development with inventory management, customer experiences, and modern design.',
+    features: ['Shopping Cart Systems', 'Inventory Management', 'Mobile-First Design', 'Analytics & Reporting']
   },
   {
     icon: Code2,
@@ -20,8 +20,8 @@ const services = [
   {
     icon: Cloud,
     title: 'SaaS Products',
-    description: 'Scalable cloud-based software solutions with subscription models, automated billing, and enterprise-grade security.',
-    features: ['Cloud Infrastructure', 'Subscription Billing', 'Multi-Tenant Architecture', 'Auto-Scaling']
+    description: 'Scalable cloud-based software solutions with subscription models and enterprise-grade security.',
+    features: ['Cloud Infrastructure', 'User Management', 'Multi-Tenant Architecture', 'Auto-Scaling']
   }
 ];
 

@@ -48,7 +48,7 @@ export default function TermsPage() {
                 Merovia provides the following services:
               </p>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
-                <li><strong>E-commerce Solutions:</strong> Development and maintenance of online stores, payment integration, and inventory management systems</li>
+                <li><strong>E-commerce Solutions:</strong> Development and maintenance of online stores and inventory management systems</li>
                 <li><strong>Software Development:</strong> Custom software applications, web development, API integration, and database solutions</li>
                 <li><strong>SaaS Products:</strong> Cloud-based software platforms with subscription models and enterprise features</li>
               </ul>
@@ -80,27 +80,19 @@ export default function TermsPage() {
             </section>
 
             <section className="mb-8">
-              <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">4. Payment Terms</h2>
+              <h2 className="text-2xl font-bold text-gray-900 dark:text-white mb-4">4. Service Terms</h2>
               
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.1 Pricing and Billing</h3>
+              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.1 Pricing</h3>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>All prices are in US Dollars (USD) unless otherwise specified</li>
-                <li>Payments are processed securely through Stripe</li>
-                <li>Subscription fees are billed in advance on a recurring basis</li>
                 <li>Custom project pricing is provided in written quotes</li>
-                <li>All fees are non-refundable except as required by law or explicitly stated</li>
+                <li>Pricing terms are outlined in individual service agreements</li>
               </ul>
 
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.2 Payment Methods</h3>
-              <p className="text-gray-700 dark:text-gray-300 mb-4">
-                We accept major credit cards, debit cards, and ACH transfers through our payment processor. You authorize us 
-                to charge your payment method for all fees incurred.
-              </p>
-
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.3 Late Payments</h3>
+              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.2 Service Delivery</h3>
               <p className="text-gray-700 dark:text-gray-300">
-                Overdue payments may result in service suspension. We reserve the right to charge late fees and interest on 
-                overdue amounts at the maximum rate permitted by law.
+                Services are delivered according to project timelines and specifications outlined in individual agreements.
+                We reserve the right to modify service delivery schedules with reasonable notice.
               </p>
             </section>
 
@@ -119,7 +111,7 @@ export default function TermsPage() {
                 For custom development projects:
               </p>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
-                <li>Upon full payment, you receive ownership of custom code developed specifically for you</li>
+                <li>Upon project completion, you receive ownership of custom code developed specifically for you</li>
                 <li>We retain rights to any pre-existing code, frameworks, or libraries</li>
                 <li>We may showcase your project in our portfolio unless otherwise agreed</li>
               </ul>
@@ -142,7 +134,6 @@ export default function TermsPage() {
                 <li>Reverse engineer, decompile, or disassemble our software</li>
                 <li>Use our Services to send spam or unsolicited communications</li>
                 <li>Engage in fraudulent activities or money laundering</li>
-                <li>Violate any applicable payment card industry standards</li>
                 <li>Interfere with or disrupt our Services or servers</li>
               </ul>
             </section>
@@ -217,8 +208,8 @@ export default function TermsPage() {
 
               <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">12.2 Termination by You</h3>
               <p className="text-gray-700 dark:text-gray-300 mb-4">
-                You may cancel your subscription at any time through your account settings. Cancellation takes effect at the 
-                end of your current billing period. No refunds are provided for partial periods.
+                You may cancel your subscription at any time through your account settings. Cancellation takes effect according 
+                to the terms specified in your service agreement.
               </p>
 
               <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">12.3 Termination by Us</h3>

@@ -51,7 +51,6 @@ export default function PrivacyPage() {
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>Name and contact information (email, phone number, address)</li>
                 <li>Company name and business information</li>
-                <li>Payment information (processed securely through Stripe)</li>
                 <li>Account credentials and preferences</li>
                 <li>Communications you send to us</li>
               </ul>
@@ -70,7 +69,6 @@ export default function PrivacyPage() {
               <p className="text-gray-700 dark:text-gray-300 mb-4">We use the collected information for:</p>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>Providing and maintaining our services</li>
-                <li>Processing transactions and payments</li>
                 <li>Sending administrative information and updates</li>
                 <li>Responding to customer support requests</li>
                 <li>Analyzing and improving our services</li>
@@ -86,7 +84,6 @@ export default function PrivacyPage() {
               
               <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.1 Service Providers</h3>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
-                <li>Stripe for payment processing</li>
                 <li>Cloud hosting providers</li>
                 <li>Email service providers</li>
                 <li>Analytics platforms</li>
@@ -112,7 +109,6 @@ export default function PrivacyPage() {
               </p>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>SSL/TLS encryption for data transmission</li>
-                <li>PCI DSS compliance for payment processing</li>
                 <li>Regular security audits and assessments</li>
                 <li>Access controls and authentication</li>
                 <li>Employee training on data protection</li>

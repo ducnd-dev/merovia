@@ -156,12 +156,7 @@ export default function CookiePolicyPage() {
                 <li><strong>Google Tag Manager:</strong> Tag and script management</li>
               </ul>
 
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.2 Payment Processors</h3>
-              <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
-                <li><strong>Stripe:</strong> Secure payment processing and fraud prevention</li>
-              </ul>
-
-              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.3 Social Media</h3>
+              <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">4.2 Social Media</h3>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
                 <li><strong>Facebook Pixel:</strong> Conversion tracking and remarketing</li>
                 <li><strong>LinkedIn Insight Tag:</strong> Analytics and advertising</li>

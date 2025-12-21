@@ -170,7 +170,6 @@ export default function GDPRPage() {
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>Contact information (name, email, phone number, address)</li>
                 <li>Account credentials and authentication data</li>
-                <li>Payment and billing information</li>
                 <li>Usage data and analytics</li>
                 <li>Technical data (IP address, browser type, device information)</li>
                 <li>Communications and correspondence</li>
@@ -179,7 +178,6 @@ export default function GDPRPage() {
               <h3 className="text-xl font-semibold text-gray-900 dark:text-white mb-3">6.2 Purposes of Processing</h3>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
                 <li>Providing and maintaining our services</li>
-                <li>Processing transactions and payments</li>
                 <li>Customer support and communications</li>
                 <li>Service improvement and analytics</li>
                 <li>Security and fraud prevention</li>
@@ -192,7 +190,7 @@ export default function GDPRPage() {
                 We may share your personal data with:
               </p>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
-                <li>Service providers (cloud hosting, payment processing, email services)</li>
+                <li>Service providers (cloud hosting, email services)</li>
                 <li>Professional advisors (lawyers, accountants)</li>
                 <li>Law enforcement and regulatory authorities (when legally required)</li>
                 <li>Business partners (with your consent)</li>
@@ -221,7 +219,7 @@ export default function GDPRPage() {
               </p>
               <ul className="list-disc pl-6 mb-4 text-gray-700 dark:text-gray-300 space-y-2">
                 <li><strong>Account data:</strong> Duration of account + 3 years</li>
-                <li><strong>Transaction records:</strong> 7 years (for tax and accounting purposes)</li>
+                <li><strong>Service records:</strong> 7 years (for business and accounting purposes)</li>
                 <li><strong>Marketing data:</strong> Until consent is withdrawn or 2 years of inactivity</li>
                 <li><strong>Support communications:</strong> 3 years</li>
                 <li><strong>Analytics data:</strong> 26 months</li>
@@ -239,7 +237,6 @@ export default function GDPRPage() {
                 <li>Regular security assessments and audits</li>
                 <li>Employee training on data protection</li>
                 <li>Incident response and breach notification procedures</li>
-                <li>PCI DSS compliance for payment data</li>
               </ul>
             </section>
 

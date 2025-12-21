@@ -88,10 +88,10 @@ export default function Contact() {
               <ul className="space-y-3">
                 {[
                   'US-based company with local support',
-                  'Stripe and bank verified',
-                  'PCI DSS compliant infrastructure',
+                  'Registered in Wyoming, USA',
                   'Enterprise-grade security',
-                  'Transparent pricing',
+                  'GDPR & CCPA compliant',
+                  'Transparent communication',
                   '24/7 customer support'
                 ].map((item) => (
                   <li key={item} className="flex items-center gap-2 text-gray-600 dark:text-gray-400">

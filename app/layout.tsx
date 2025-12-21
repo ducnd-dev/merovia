@@ -28,8 +28,6 @@ export const metadata: Metadata = {
     "web development",
     "US company",
     "Wyoming tech company",
-    "payment integration",
-    "stripe integration",
     "custom software",
     "cloud solutions",
     "enterprise software"

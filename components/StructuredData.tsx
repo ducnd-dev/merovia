@@ -79,7 +79,7 @@ export default function StructuredData() {
           itemOffered: {
             '@type': 'Service',
             name: 'E-commerce Solutions',
-            description: 'Comprehensive online store development with secure payment integration',
+            description: 'Comprehensive online store development with inventory management',
           },
         },
         {
