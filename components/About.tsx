@@ -47,10 +47,10 @@ export default function About() {
                 US Based Company
               </div>
               <div className="px-6 py-3 bg-purple-100 dark:bg-purple-900/30 rounded-full text-purple-700 dark:text-purple-300 font-medium">
-                Stripe Verified
+                Wyoming Registered
               </div>
               <div className="px-6 py-3 bg-green-100 dark:bg-green-900/30 rounded-full text-green-700 dark:text-green-300 font-medium">
-                Bank Approved
+                Fully Compliant
               </div>
             </div>
           </motion.div>

@@ -3,7 +3,7 @@
 import Link from 'next/link';
 import { motion } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
-import { ArrowLeft, Briefcase, MapPin, DollarSign, Clock, Users, Code, TrendingUp, Heart, Zap, Award, UserCheck, Calculator } from 'lucide-react';
+import { ArrowLeft, Briefcase, MapPin, DollarSign, Clock, Users, Code, TrendingUp, Heart, Zap, Award, UserCheck, Calculator, Lightbulb } from 'lucide-react';
 
 const jobListings = [
   {
@@ -130,6 +130,34 @@ const jobListings = [
     ],
     icon: Calculator,
     color: 'orange',
+  },
+  {
+    id: 6,
+    title: 'Chief Technology Officer (CTO)',
+    department: 'Executive Leadership',
+    location: 'Remote (US)',
+    type: 'Full-time',
+    salary: '$150,000 - $200,000',
+    description: 'Join our leadership team as CTO to drive our technology vision and strategy for the next phase of growth.',
+    requirements: [
+      '10+ years of experience in software development and technology leadership',
+      'Proven track record of building and scaling technology teams',
+      'Deep expertise in modern web technologies and cloud architecture',
+      'Strong understanding of e-commerce and SaaS platforms',
+      'Excellent strategic thinking and communication skills',
+      'Experience with startup or high-growth environments',
+    ],
+    responsibilities: [
+      'Define and execute the company\'s technology strategy',
+      'Lead and mentor engineering teams',
+      'Drive technical innovation and best practices',
+      'Oversee system architecture and infrastructure',
+      'Collaborate with executive team on product roadmap',
+      'Ensure security, scalability, and performance of all systems',
+      'Manage technology budget and vendor relationships',
+    ],
+    icon: Lightbulb,
+    color: 'indigo',
   },
 ];
 
